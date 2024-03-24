@@ -1,5 +1,8 @@
-### Olá, bem vindo ao meu GitHub!👋
-
+<h1> Olá, bem vindo ao meu GitHub!👋 </h1>
+<ul>
+  <li>- 🔭Estudante de Desenvolvimento de Software na Fatec-Matão...</li>
+  <li>- 🌱Aprendendo mais sobre JavaScript e TypeScript...</li>
+</ul>
 <!--
 **KillPhill2111/KillPhill2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
