@@ -1,7 +1,7 @@
 <h1> Olá, bem vindo ao meu GitHub!👋 </h1>
 <ul>
   <li>- 🔭Estudante de Desenvolvimento de Software na Fatec-Matão...</li>
-  <li>- 🌱Aprendendo mais sobre JavaScript e TypeScript...</li>
+  <li>- 🌱Aprendendo mais sobre JavaScript e TypeScript, ASP.net e desenvolvimento web...</li>
 </ul>
 <div class=container>
   <form>
