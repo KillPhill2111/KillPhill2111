@@ -1,4 +1,6 @@
-<h1> Olá, bem vindo ao meu GitHub!👋 </h1>
+<h1> Olá, bem vindo ao meu GitHub! </h1>
+<p>Meu nome é Luiz Filipe, sou eng civil espec em concreto armado. </p>
+<p>Atualmente estou no 4º periodo do curso de Desenvolvimento de Software Multiplataforma.</p>
 <ul>
   <li>- 🔭Estudante de Desenvolvimento de Software na Fatec-Matão...</li>
   <li>- 🌱Aprendendo mais sobre JavaScript e TypeScript, ASP.net e desenvolvimento web...</li>
