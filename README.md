@@ -1,7 +1,7 @@
 <h1> Olá, bem vindo ao meu GitHub! </h1>
-<p>Meu nome é Luiz Filipe, atualmente estou no 4º periodo do curso de Desenvolvimento de Software Multiplataforma na Fatec de Matão.</p>
+<p>Meu nome é Luiz Filipe, atualmente estou no curso de Engenharia da Computação.</p>
 <ul>
-  <li>- 🔭Estudante de Desenvolvimento de Software na Fatec-Matão...</li>
+  <li>- 🔭Estudante de Eng. da Computação InfNet-RJ</li>
   <li>- 🌱Aprendendo mais sobre JavaScript e TypeScript, ASP.net e desenvolvimento web...</li>
 </ul>
 <div class=container>
