@@ -17,8 +17,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+novas+habilidades" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KillPhill2111&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillPhill2111&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 <!--
 **KillPhill2111/KillPhill2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
