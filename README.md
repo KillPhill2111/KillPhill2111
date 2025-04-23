@@ -1,11 +1,5 @@
 <h1> Olá, bem vindo ao meu GitHub! </h1>
 <p>Meu nome é Luiz Filipe, atualmente estou no curso de Engenharia da Computação.</p>
-<ul>
-  <li>- 🔭Estudante de Eng. da Computação InfNet-RJ</li>
-  <li>- 🌱Aprendendo mais sobre JavaScript e TypeScript, ASP.net e desenvolvimento web...</li>
-  <li>- Tentando melhorar um pouco todos os dias...</li>
-</ul>
-<div class=container>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
@@ -14,6 +8,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
   <!-- Adicione mais ícones conforme necessário -->
 </p>
+<ul>
+  <li>- 🔭Estudante de Eng. da Computação InfNet-RJ</li>
+  <li>- 🌱Aprendendo mais sobre JavaScript e TypeScript, ASP.net e desenvolvimento web...</li>
+  <li>- Tentando melhorar um pouco todos os dias...</li>
+</ul>
+<div class=container>
+
  
 
   <form>
