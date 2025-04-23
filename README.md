@@ -3,6 +3,7 @@
 <ul>
   <li>- 🔭Estudante de Eng. da Computação InfNet-RJ</li>
   <li>- 🌱Aprendendo mais sobre JavaScript e TypeScript, ASP.net e desenvolvimento web...</li>
+  <li>- Tentando melhorar um pouco todos os dias...</li>
 </ul>
 <div class=container>
   <form>
