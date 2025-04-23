@@ -6,6 +6,12 @@
   <li>- Tentando melhorar um pouco todos os dias...</li>
 </ul>
 <div class=container>
+  ![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  </p>
+
   <form>
     
   </form>
