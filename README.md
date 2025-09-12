@@ -6,7 +6,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <!-- Adicione mais ícones conforme necessário -->
+  
 </p>
 <ul>
   <li>- 🔭Estudante de Eng. da Computação InfNet-RJ</li>
@@ -14,7 +14,7 @@
   <li>- Tentando melhorar um pouco todos os dias...</li>
 </ul>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+novas+habilidades" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;--Sempre+aprendendo+novas+habilidades--" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KillPhill2111&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
