@@ -22,13 +22,13 @@
 </p>
 <h4>📫 Contato </h4>
 <p align="left">
-  <a href="mailto:filipe.fonseca.eng@outlook.com">
+  <a href="mailto:filipe.fonseca.eng@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/filipe-fonseca-848061147/">
+  <a href="https://www.linkedin.com/in/filipe-fonseca-848061147/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/FilipeFonseca23">
+  <a href="https://twitter.com/FilipeFonseca23" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
