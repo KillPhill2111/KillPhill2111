@@ -9,9 +9,9 @@
   
 </p>
 <ul>
-  <li>- 🔭Estudante de Eng. da Computação InfNet-RJ</li>
+  <li>- 🔭Estudante de Eng. de Software no InfNet-RJ</li>
   <li>- 🌱Aprendendo mais sobre JavaScript e TypeScript, ASP.net e desenvolvimento web...</li>
-  <li>- Tentando melhorar um pouco todos os dias...</li>
+  
 </ul>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;" />
