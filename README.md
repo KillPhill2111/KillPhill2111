@@ -1,5 +1,5 @@
-<h1> Olá, bem vindo ao meu GitHub! </h1>
-<p>Meu nome é Filipe Fonseca.</p>
+<h1> Olá e bem vindo ao meu GitHub! </h1>
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
