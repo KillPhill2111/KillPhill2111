@@ -3,10 +3,13 @@
 <table>
   <tr>
     <td><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2d44836e-2fac-4a15-9262-e29a9360c127" /></td>
-    <td><img src="https://jsdelivr.net" width="40" height="40"></td>
-    <td><img src="https://jsdelivr.net" width="40" height="40"></td>
-    <td><img src="https://jsdelivr.net" width="40" height="40"></td>
-    <td><img src="https://jsdelivr.net" width="40" height="40"></td>
+    <td><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/baa3dba6-98d7-4f23-9bcc-2310d5845ff4" /></td>
+    <td> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/01ea2f90-903d-4241-a41b-068868b9147c" /> </td>
+    <td> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/58026295-4bc4-41ad-b0c8-458fd18a1506" /> </td>
+    <td><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c5655f51-7a4f-4d76-bf76-44539b21e3c4" /></td>
+    <td> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f22cba57-e703-44ae-a5ab-bbe099187f18" /> </td>
+    <td> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/56c0083e-2363-492c-ad88-3011a3eb72ba" /> </td>
+    
   </tr>
 </table>
 <p align="left">
