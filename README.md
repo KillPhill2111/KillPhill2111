@@ -21,7 +21,7 @@
   </ul>
 
 </div>
-<ul>
+<ul style="display: flex; list-style: none; padding: 0; gap: 10px;">
   <li>- 🔭Estudante de Eng. de Software no InfNet-RJ</li>
   <li>- 🌱Aprendendo mais sobre JavaScript e TypeScript, ASP.net e desenvolvimento web...</li>
   
