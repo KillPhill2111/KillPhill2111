@@ -1,13 +1,26 @@
 <h1> Olá e bem vindo ao meu GitHub! </h1>
 
-<p style{ align="left"}>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  
-</p>
+<div>
+  <ul style="display: flex; list-style: none; padding: 0; gap: 10px;">
+    <li>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    </li>
+    <li>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+    </li>
+    <li>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+    </li>
+    <li>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>    
+    </li>
+    <li>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>    
+    </li>
+    
+  </ul>
+
+</div>
 <ul>
   <li>- 🔭Estudante de Eng. de Software no InfNet-RJ</li>
   <li>- 🌱Aprendendo mais sobre JavaScript e TypeScript, ASP.net e desenvolvimento web...</li>
