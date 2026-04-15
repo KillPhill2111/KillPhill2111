@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2d44836e-2fac-4a15-9262-e29a9360c127" /></td>
+    <td><img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/2d44836e-2fac-4a15-9262-e29a9360c127" /></td>
     <td><img src="https://jsdelivr.net" width="40" height="40"></td>
     <td><img src="https://jsdelivr.net" width="40" height="40"></td>
     <td><img src="https://jsdelivr.net" width="40" height="40"></td>
