@@ -2,7 +2,8 @@
 
 <table>
   <tr>
-    <td><img src="https://jsdelivr.net" width="40" height="40"></td>
+    <td><img src="![Uploading image.png…]()
+" width="40" height="40"></td>
     <td><img src="https://jsdelivr.net" width="40" height="40"></td>
     <td><img src="https://jsdelivr.net" width="40" height="40"></td>
     <td><img src="https://jsdelivr.net" width="40" height="40"></td>
