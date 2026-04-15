@@ -1,7 +1,7 @@
 <h1> Olá e bem vindo ao meu GitHub! </h1>
 
 <div>
-  <ul style="display: flex; list-style: none; padding: 0; gap: 10px;">
+  <p align="left">
     <li>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
     </li>
@@ -18,14 +18,14 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>    
     </li>
     
-  </ul>
+  </p>
 
 </div>
-<ul style="display: flex; list-style: none; padding: 0; gap: 10px;">
+<p align="left">
   <li>- 🔭Estudante de Eng. de Software no InfNet-RJ</li>
   <li>- 🌱Aprendendo mais sobre JavaScript e TypeScript, ASP.net e desenvolvimento web...</li>
   
-</ul>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;" />
 </p>
