@@ -1,26 +1,14 @@
 <h1> Olá e bem vindo ao meu GitHub! </h1>
 
-<div>
-  <p align="left">
-    <li>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    </li>
-    <li>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-    </li>
-    <li>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-    </li>
-    <li>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>    
-    </li>
-    <li>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>    
-    </li>
-    
-  </p>
-
-</div>
+<table>
+  <tr>
+    <td><img src="https://jsdelivr.net" width="40" height="40"></td>
+    <td><img src="https://jsdelivr.net" width="40" height="40"></td>
+    <td><img src="https://jsdelivr.net" width="40" height="40"></td>
+    <td><img src="https://jsdelivr.net" width="40" height="40"></td>
+    <td><img src="https://jsdelivr.net" width="40" height="40"></td>
+  </tr>
+</table>
 <p align="left">
   <li>- 🔭Estudante de Eng. de Software no InfNet-RJ</li>
   <li>- 🌱Aprendendo mais sobre JavaScript e TypeScript, ASP.net e desenvolvimento web...</li>
