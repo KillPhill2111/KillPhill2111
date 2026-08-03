@@ -14,7 +14,7 @@
   </tr>
 </table>
 <p align="left">
-  <li>- 🔭Estudante de Eng. de Software no InfNet-RJ</li>
+  <li>- 🔭Estudante de Eng. da Computação no InfNet-RJ</li>
   <li>- 🌱Aprendendo mais sobre JavaScript e TypeScript, ASP.net e desenvolvimento web...</li>
   
 </p>
