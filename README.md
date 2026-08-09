@@ -23,7 +23,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KillPhill2111&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillPhill2111&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  
 </p>
 <h4>📫 Contato </h4>
 <p align="left">
