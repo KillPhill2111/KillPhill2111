@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-![Linguagens mais usadas](https://vercel.app)
+  <img src="https://vercel.app" alt="Linguagens mais usadas" />
 
 </p>
 <h4>📫 Contato </h4>
