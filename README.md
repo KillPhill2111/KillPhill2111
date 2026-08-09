@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillPhill2111&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 <h4>📫 Contato </h4>
-<p align="left">
+<p align="center">
   <a href="mailto:filipe.fonseca.eng@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
